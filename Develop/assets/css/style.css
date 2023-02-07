@@ -45,6 +45,10 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* added a hover styling to the links when hovered */
+a:hover {
+    color: #FEC486;
+}
 
 p {
     font-size: 16px;
