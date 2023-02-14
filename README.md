@@ -27,14 +27,11 @@ Below is a list of edits that have been made to improve the website:
 - Added accessible alt attributes to the hero image element
 - Addeed a concise, descriptive title to the HTML page.
 - Used the Scout Rule to consolidated and organize CSS selectors and properties.
+- Added deploeyed URL to README
 
 
 ## Conclusion
 By refactoring the existing website to meet the best practices for web accessibility, the marketing agency will improve its search engine optimization, avoid potential litigation, and provide a better experience for users with disabilities. 
-
-
-
-
 
 
 ## Screenshots
@@ -45,6 +42,8 @@ By refactoring the existing website to meet the best practices for web accessibi
 ## Deployment
 
 The below is a link to the deployed application:
+
+https://anotnio-lu.github.io/convenient-marketing-data-processor/
  
 ## Authors
 
